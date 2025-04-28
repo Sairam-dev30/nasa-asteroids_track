@@ -54,9 +54,13 @@ nasa-asteroid-tracker/
 └── README.md            # Project documentation
 
 🚀 Credits
+
 NASA NEO API - https://api.nasa.gov/
+
 Built with 💖 by Sairam
 
 📜 License
+
 This project is open-source and free to use.
+
 Feel free to fork, modify, and build amazing things!

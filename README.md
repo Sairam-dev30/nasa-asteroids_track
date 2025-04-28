@@ -30,16 +30,19 @@ You can interactively **filter**, **analyze**, and **visualize** asteroid data u
    cd nasa-asteroid-tracker
 2.Install Python packages:
 pip install -r requirements.txt
+
 3.Setup your MySQL database:
 *Create a database named astro
 *Update your MySQL username and password inside both fetch_asteroids.py and app.py
+
 4.Fetch asteroid data:
 bash
-
 python fetch_asteroids.py
+
 5.Run the Streamlit web app:
 bash
 streamlit run app.py
+
 🗂 Project Structure
 bash
 nasa-asteroid-tracker/
@@ -49,9 +52,11 @@ nasa-asteroid-tracker/
 ├── requirements.txt     # Python dependencies
 ├── .gitignore           # Files to ignore in GitHub
 └── README.md            # Project documentation
+
 🚀 Credits
 NASA NEO API - https://api.nasa.gov/
 Built with 💖 by Sairam
+
 📜 License
 This project is open-source and free to use.
 Feel free to fork, modify, and build amazing things!
